@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+.bulktext {
+  text-align: center;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 10px;
+
+}
+
+.navbar a {
+  background-color: grey;
+  
+}
+
+#details {
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+
+}
+
